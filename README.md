@@ -1,2 +1,2 @@
 # YuvaIntern_Data_Science_Project
-Air Quality Data Cleaning and Preprocessing using Python, Pandas, NumPy, and Matplotlib.
+Data Science internship tasks covering data cleaning, preprocessing, exploratory data analysis, and machine learning using Python.
